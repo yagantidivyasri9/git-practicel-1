@@ -1,1 +1,2 @@
 learning git repository
+a change from clone repo
